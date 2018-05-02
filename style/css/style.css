@@ -1,0 +1,21 @@
+/* line 5, /Users/courtneybrown/Documents/GitHub/tts/style/sass/style.scss */
+body {
+  background: orange;
+}
+
+/* line 10, /Users/courtneybrown/Documents/GitHub/tts/style/sass/style.scss */
+main h1 {
+  color: #996300;
+}
+
+/* line 12, /Users/courtneybrown/Documents/GitHub/tts/style/sass/style.scss */
+h1 {
+  color: #ffc966;
+}
+
+/* line 17, /Users/courtneybrown/Documents/GitHub/tts/style/sass/style.scss */
+p {
+  color: #996300;
+}
+
+/*# sourceMappingURL=../css/style.map */

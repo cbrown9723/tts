@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		"$primary-color: orange;\n$primary-font: Helvetica, arial , sans-serif;\n\n\nbody {\n  background: $primary-color;\n}\n\nmain{\n  h1{color:darken($primary-color,20%)}\n}\nh1{\n  color: lighten($primary-color,20%);\n$primary-font: Helvetica, arial , sans-serif;\n}\n\np{\n  color: darken($primary-color, 20%);\n  $primary-font: Helvetica, arial , sans-serif;\n}\n"
+	],
+	"mappings": ";AAIA,AAAA,IAAI,CAAC;EACH,UAAU,EALI,MAAM;CAMrB;;;AAED,AACE,IADE,CACF,EAAE,CAAA;EAAC,KAAK,EAAC,OAAM;CAAsB;;;AAEvC,AAAA,EAAE,CAAA;EACA,KAAK,EAAE,OAAO;CAEf;;;AAED,AAAA,CAAC,CAAA;EACC,KAAK,EAAE,OAAM;CAEd",
+	"names": []
+}
