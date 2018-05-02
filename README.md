@@ -26,3 +26,8 @@ h1 {(color: lighten(blue, 20%)}
 h1 {(color: darken(blue, 20%)}
 
 ```
+### Enable Node
+<!--  Allows documents to sync without me having to refresh "stop" via Scout-->
+- cd /Users/courtneybrown/Documents/GitHub/tts/style
+- sass --watch sass:css
+<!--  Enter ^ commands into Terminal-->
